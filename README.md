@@ -35,9 +35,9 @@ Atualmente, estou expandindo minha expertise para a Engenharia de Qualidade (**S
 
 ### 📊 GitHub Stats
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO_GITHUB">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula"/>
+  <a href="https://github.com/JulioCaetanovds">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioCaetanovds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCaetanovds&layout=compact&theme=dracula"/>
   </a>
 </div>
 
