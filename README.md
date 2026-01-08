@@ -33,15 +33,6 @@ Atualmente, estou expandindo minha expertise para a Engenharia de Qualidade (**S
 
 ---
 
-### 🏆 Minhas Conquistas
-[![Trophy](https://github-profile-trophy.vercel.app/?username=JulioCaetanovds&theme=dracula&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🔥 Minha Sequência
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulioCaetanovds&theme=dracula&hide_border=true" alt="Julio's Streak" />
-</div>
-
----
 <div align="center">
   <sub><i>"Quality is not an act, it is a habit."</i></sub>
 </div>
