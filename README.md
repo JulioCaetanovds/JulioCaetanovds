@@ -72,5 +72,5 @@ Estou cursando a **Formação Automação de Testes com Cypress (DIO)**, aprofun
 
 <div align="center">
   <br/>
-  <sub><i>"Quality is not an act, it is a habit." - Aristóteles (e o mindset de todo bom QA)</i></sub>
+  <sub><i>"Quality is not an act, it is a habit." - Aristóteles</i></sub>
 </div>
