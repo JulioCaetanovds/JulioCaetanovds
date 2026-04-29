@@ -1,7 +1,7 @@
 ### Olá, eu sou o Julio! 👋
 **Mobile Fullstack Developer | SDET & QA Automation Specialist**
 
-Desenvolvedor focado em unir engenharia mobile com rigor de qualidade. Trago a visão de construção do Dev para a estratégia de prevenção de falhas do QA (*Shift-Left Testing*). Atualmente, construo apps integrados a hardware via **Bluetooth/IoT** na **Saicon Sistemas de Pesagem**.
+Desenvolvedor Mobile com forte atuação em automação de testes (SDET). Meu foco é simples: criar o código e automatizar os testes para garantir que o aplicativo não quebre na mão do usuário. Atualmente, desenvolvo apps integrados a hardware via Bluetooth/IoT na Saicon Sistemas.
 
 - 💼 **Atualmente:** Mobile Dev na Saicon Sistemas
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (UPF)
