@@ -39,7 +39,7 @@ Desenvolvedor Mobile com forte atuação em Engenharia de Qualidade (SDET). Meu 
 
 ### 📫 Contatos e Portfólio Completo
 <div align="left">
-  <a href="https://portfolio-julio-caetano" target="_blank">
+  <a href="https://portfolio-julio-caetano.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/juliocaetano15/" target="_blank">
